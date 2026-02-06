@@ -1,5 +1,6 @@
 # Landing Page
 
-A landing page for Krunk-Juice.github.io.
+A landing page for ch-ta.github.io.
 
-[Landing](https://krunk-juice.github.io)
+
+[Landing](https://ch-ta.github.io)
